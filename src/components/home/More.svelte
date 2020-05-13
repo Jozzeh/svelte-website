@@ -40,7 +40,7 @@
           Call me old school but I like to seperate lay-out from behavior...<br/><br/>
           The reason I'm still in development after all these years?
           <strong>Adaptability</strong><br/>The development industry is moving at a frantic pace, and developers need to keep on learning.<br/>
-          <span class="small">(This website was created with Next - a react framework, and later with Sapper - a svelte framework. Check my github repo's for the code.)</span>
+          <span class="small">(This website was created with Sapper - a svelte framework. Check my github repo's for the code.)</span>
         </p>
       </div>
     </div>
