@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "txt": "I run long distances to clear my head and to think about complex dev issues.",
+      "tech": "Running",
+      "pubdate": "2020-04-30"
+    },
+    {
+      "txt": "Storybook really is a nice 'UI explorer' and component document tool.",
+      "tech": "Component library",
+      "pubdate": "2020-04-18"
+    },
+    {
+      "txt": "Want to learn something in detail? Build a starters kit and document it.",
+      "tech": "Tutorials",
+      "pubdate": "2020-04-07"
+    },
+    {
+      "txt": "Amazing content & tutorials are being created in dire times...",
+      "tech": "Tutorials",
+      "pubdate": "2020-04-02"
+    },
+    {
+      "txt": "I recommend Redux for state management. Why? You can use it with (almost) anything.",
+      "tech": "Redux",
+      "pubdate": "2020-03-27"
+    },
+    {
+      "txt": "STUN/TURN servers documentation looks easy, but after trying 5 of them, none of them works.",
+      "tech": "WebRTC",
+      "pubdate": "2020-03-21"
+    },
+    {
+      "txt": "Started experimenting with agile in my everyday life. Visualising tasks had quite an impact.",
+      "tech": "Agile",
+      "pubdate": "2020-03-16"
+    },
+    {
+      "txt": "Always ask yourself if a tech is necessairy... Even for something simple as a portfolio website.",
+      "tech": "KISS methodology",
+      "pubdate": "2020-03-14"
+    },
+    {
+      "txt": "Something worth more than gold? Having colleagues that help & inspire you...",
+      "tech": "Dev Life",
+      "pubdate": "2020-03-12"
+    },
+    {
+      "txt": "Being able to condense complex matter in simple words or analogies, is the mark of a great developer.",
+      "tech": "Dev Life",
+      "pubdate": "2020-03-07"
+    },
+    {
+      "txt": "When in meeting with developers, remember each dev has its question quota...",
+      "tech": "Dev Life",
+      "pubdate": "2020-03-01"
+    },
+    {
+      "txt": "A simple but effective static site generator",
+      "tech": "NextJS",
+      "pubdate": "2020-02-18"
+    },
+    {
+      "txt": "Developers need to deal with a fast expanding ecosystem of ever growing possibilities.",
+      "tech": "Dev Life",
+      "pubdate": "2020-02-03"
+    },
+    {
+      "txt": "Giving talks made me hone vital soft skills for the work place.",
+      "tech": "Dev life",
+      "pubdate": "2020-01-24"
+    },
+    {
+      "txt": "Do not change state during animation",
+      "tech": "React Native",
+      "pubdate": "2020-01-05"
+    },
+    {
+      "txt": "If state changes need to take place, do it once. Redux component state?",
+      "tech": "React Native",
+      "pubdate": "2019-12-17"
+    },
+    {
+      "txt": "Redux can be used in multiple techs.",
+      "tech": "Native / React / RN",
+      "pubdate": "2019-11-22"
+    },
+    {
+      "txt": "Compile a build to see app performance",
+      "tech": "React Native",
+      "pubdate": "2020-10-16"
+    },
+    {
+      "txt": "When using Redux, give variable state to only one object.",
+      "tech": "React Native",
+      "pubdate": "2020-09-29"
+    },
+    {
+      "txt": "A step to the side, is not a step backwards",
+      "tech": "Soft skills",
+      "pubdate": "2019-09-01"
+    }
+  ]
+}
