@@ -34,7 +34,7 @@
         The code for this website is available on my Github...
         <br />
         <a
-          href="https://github.com/Jozzeh/live-website"
+          href="https://github.com/Jozzeh/svelte-website"
           rel="noopener"
           target="_blank">
           Github
